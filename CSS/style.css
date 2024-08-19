@@ -177,7 +177,7 @@ nav a:hover{
     .section-1{
         background-color: #f8f4e4;
         padding: 1em;
-        width: 100%;
+        width: 80%;
         margin-bottom: 20px;
         border-radius: 20px;
         box-shadow: 0 0 10px #0a0a0a;
@@ -284,3 +284,24 @@ article img{
     width: 100%;
     border-radius: 0px 0px 0px 10px;
  }
+
+
+
+
+.btn_depoimento{
+    font-size: 15px;
+    color: #f8f4e4;
+    background-color: #0ca5b0;
+    width: 70px;
+    height: 30px;
+    border-radius: 10px;
+    text-align: center;
+    border: 0 none;
+    }
+    
+.btn_depoimento:hover{
+    background-color: #f1e8c7;
+    color: #0ca5b0;
+}
+    
+ 
